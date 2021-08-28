@@ -101,6 +101,8 @@
 |문제 3 - 17219 | 🍀 | :octopus: | ✔ |
 |Android Unit 1 Pathway 1 | 💖 | :tropical_fish: | 💌 |
 
+</div>
+</details>
 
 ### 8주차
 | To-Do | 지수 | 도형 | 지영 |
