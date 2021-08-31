@@ -17,14 +17,16 @@ class QueueDH<T> {
 
     public void add(T data) {
         NodeDH<T> newNode = new NodeDH<T>(data);
-        if (head == null) {
-            head = newNode;
-        }
 
         if (tail != null) {
             tail.next = newNode;
         }
         tail = newNode;
+
+        if (head == null) {
+            head = tail;
+        }
+
     }
 
     public T remove() {
@@ -34,6 +36,11 @@ class QueueDH<T> {
 
         T item = head.data;
         head = head.next;
+
+        if (head == null) {
+            tail = null;
+        }
+
         return item;
     }
 
