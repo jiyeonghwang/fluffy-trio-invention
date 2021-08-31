@@ -107,14 +107,14 @@
 ### 8주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|3. 매출액의 종류|  |  |  |
-|4. 모든 아나그램 찾기|  |  |  |
-|5. K번째 큰 수|  |  |  |
-|1. 올바른 괄호|  |  |  |
-|2. 괄호문자제거|  |  |  |
-|문제 1 - 3077|  |  |  |
-|문제 2 - 11866|  |  |  |
-|문제 3 - 4949|  |  |  |
-|Android Unit 1 Pathway 2|  |  |  |
-|Stack - https://youtu.be/whVUYv0Leg0|  |  |  |
-|Queue - https://youtu.be/W3jNbNGyjMs|  |  |  |
+|3. 매출액의 종류|  | :pizza: |  |
+|4. 모든 아나그램 찾기|  | :hamburger: |  |
+|5. K번째 큰 수|  | :fries: |  |
+|1. 올바른 괄호|  | :spaghetti: |  |
+|2. 괄호문자제거|  | :stew: |  |
+|문제 1 - 3077|  | :ice_cream: |  |
+|문제 2 - 11866|  | :cake: |  |
+|문제 3 - 4949|  | :custard: |  |
+|Android Unit 1 Pathway 2|  | :cookie: |  |
+|Stack - https://youtu.be/whVUYv0Leg0|  | :chocolate_bar: |  |
+|Queue - https://youtu.be/W3jNbNGyjMs|  | :lollipop: |  |
