@@ -118,3 +118,11 @@
 |Android Unit 1 Pathway 2| 💖 | :cookie: |  |
 |Stack - https://youtu.be/whVUYv0Leg0| 🎶 | :chocolate_bar: |  |
 |Queue - https://youtu.be/W3jNbNGyjMs| 🎶 | :lollipop: |  |
+
+
+### Extra
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|1859.백만 장자 프로젝트|  |  |  |
+|1204.최빈수 구하기|  |  |  |
+|1954.달팽이 숫자|  |  |  |
