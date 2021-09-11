@@ -101,8 +101,6 @@
 |문제 3 - 17219 | 🍀 | :octopus: | ✔ |
 |Android Unit 1 Pathway 1 | 💖 | :tropical_fish: | 💌 |
 
-</div>
-</details>
 
 ### 8주차
 | To-Do | 지수 | 도형 | 지영 |
@@ -118,6 +116,23 @@
 |Android Unit 1 Pathway 2| 💖 | :cookie: | 💌 |
 |Stack - https://youtu.be/whVUYv0Leg0| 🎶 | :chocolate_bar: | 👀 |
 |Queue - https://youtu.be/W3jNbNGyjMs| 🎶 | :lollipop: | 👀 |
+  
+</div>
+</details>
+
+
+### 9주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|3. 크레인 인형뽑기|  |  |  |
+|4. 후위식 연산|  |  |  |
+|5. 쇠막대기|  |  |  |
+|6. 공주구하기|  |  |  |
+|7. 교육과정설계|  |  |  |
+|8. 응급실|  |  |  |
+|문제 1 - 1966|  |  |  |
+|문제 2 - 17952|  |  |  |
+|Android Unit 1 Pathway 3|  |  |  |
 
 
 ### Extra
