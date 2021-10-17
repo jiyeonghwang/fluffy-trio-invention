@@ -144,7 +144,7 @@
 |문제 2 - 1517|  | :snowflake: | ✔ |
 |문제 3 - 2750| 🍀 | :snowflake: | ✔ |
 |문제 4 - 1713| 🍀 | :snowflake: | ✔ |
-|Android Unit 1 Pathway 4| 💖 | :snowflake: |  |
+|Android Unit 1 Pathway 4| 💖 | :snowflake: | 💌 |
   
   
 ### 11주차
@@ -158,7 +158,7 @@
 |문제 1 - 10815| 🍀 | :snowflake: | ✔ |
 |문제 2 - 11651| 🍀 | :snowflake: | ✔ |
 |문제 3 - 1654| 🍀 | :snowflake: | ✔ |
-|Android Unit 2 Pathway 1| 💖 | :snowflake: |  |
+|Android Unit 2 Pathway 1| 💖 | :snowflake: | 💌 |
   
 </div>
 </details>
@@ -167,14 +167,14 @@
 ### 12주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|1. 재귀함수|  | :peach: |  |
-|2. 이진수 출력|  | :peach: |  |
-|3. 팩토리얼|  | :peach: |  |
-|4. 피보나치 재귀|  | :peach: |  |
-|문제 1 - 17478|  | :snowflake: |  |
-|문제 2 - 10994|  | :snowflake: |  |
-|문제 3 - 2630|  | :snowflake: |  |
-|Android Unit 2 Pathway 2|  | :snowflake: |  |
+|1. 재귀함수|  | :peach: | 📕 |
+|2. 이진수 출력|  | :peach: | 📙 |
+|3. 팩토리얼|  | :peach: | 📒 |
+|4. 피보나치 재귀|  | :peach: | 📗 |
+|문제 1 - 17478|  | :snowflake: | ✔ |
+|문제 2 - 10994|  | :snowflake: | ✔ |
+|문제 3 - 2630|  | :snowflake: | ✔ |
+|Android Unit 2 Pathway 2|  | :snowflake: | 💌 |
 
 
 ### Extra
