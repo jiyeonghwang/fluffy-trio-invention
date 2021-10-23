@@ -177,16 +177,16 @@
 ### 13주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|5. 이진트리순회(DFS)|  | :peach: |  |
-|6. 부분집합 구하기(DFS)|  | :peach: |  |
-|7. 이진트리 레벨탐색(BFS)|  | :peach: |  |
-|8. 송아지 찾기1(BFS)|  | :peach: |  |
-|9. Tree 말단노드까지의 까장 짧은 경로(DFS)|  | :peach: |  |
-|10. Tree 말단노드까지의 까장 짧은 경로(BFS)|  | :peach: |  |
+|5. 이진트리순회(DFS)| ✨ | :peach: |  |
+|6. 부분집합 구하기(DFS)| ✨ | :peach: |  |
+|7. 이진트리 레벨탐색(BFS)| ✨ | :peach: |  |
+|8. 송아지 찾기1(BFS)| ✨ | :peach: |  |
+|9. Tree 말단노드까지의 가장 짧은 경로(DFS)| ✨ | :peach: |  |
+|10. Tree 말단노드까지의 가장 짧은 경로(BFS)| ✨ | :peach: |  |
 |문제 1 - 1780|  | :snowflake: |  |
 |문제 2 - 19947|  | :snowflake: |  |
 |문제 3 - 4779|  | :snowflake: |  |
-|CS Study 1 - 로그인|  | :snowflake: |  |
+|CS Study 1 - 로그인| 💕 | :snowflake: |  |
   
 </div>
 </details>
