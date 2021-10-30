@@ -177,16 +177,16 @@
 ### 13주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|5. 이진트리순회(DFS)| ✨ | :peach: |  |
-|6. 부분집합 구하기(DFS)| ✨ | :peach: |  |
-|7. 이진트리 레벨탐색(BFS)| ✨ | :peach: |  |
-|8. 송아지 찾기1(BFS)| ✨ | :peach: |  |
-|9. Tree 말단노드까지의 가장 짧은 경로(DFS)| ✨ | :peach: |  |
-|10. Tree 말단노드까지의 가장 짧은 경로(BFS)| ✨ | :peach: |  |
+|5. 이진트리순회(DFS)| ✨ | :peach: | 📕 |
+|6. 부분집합 구하기(DFS)| ✨ | :peach: | 📙 |
+|7. 이진트리 레벨탐색(BFS)| ✨ | :peach: | 📒 |
+|8. 송아지 찾기1(BFS)| ✨ | :peach: | 📗 |
+|9. Tree 말단노드까지의 가장 짧은 경로(DFS)| ✨ | :peach: | 📘 |
+|10. Tree 말단노드까지의 가장 짧은 경로(BFS)| ✨ | :peach: | 📔 |
 |문제 1 - 1780|  | :snowflake: |  |
 |문제 2 - 19947|  | :snowflake: |  |
 |문제 3 - 4779|  | :snowflake: |  |
-|CS Study 1 - 로그인| 💕 | :maple_leaf: |  |
+|CS Study 1 - 로그인| 💕 | :maple_leaf: | 💌 |
   
 </div>
 </details>
@@ -195,15 +195,15 @@
 ### 14주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|11. 그래프와 인접행렬| ✨ | :peach: |  |
-|12. 경로탐색(DFS)| ✨ | :peach: |  |
-|13. 경로탐색(인접리스트, ArrayList)| ✨ | :peach: |  |
-|14. 그래프 최단거리(BFS)| ✨ | :peach: |  |
-|문제 1 - 1012(DFS)| 🍀 | :snowflake: |  |
-|문제 2 - 2583(DFS)| 🍀 | :snowflake: |  |
-|문제 3 - 1012(BFS)| 🍀 | :snowflake: |  |
-|문제 4 - 2583(BFS)| 🍀 | :snowflake: |  |
-|CS Study 2 - 로그인| 💕 | :maple_leaf: |  |
+|11. 그래프와 인접행렬| ✨ | :peach: | 📕 |
+|12. 경로탐색(DFS)| ✨ | :peach: | 📙 |
+|13. 경로탐색(인접리스트, ArrayList)| ✨ | :peach: | 📒 |
+|14. 그래프 최단거리(BFS)| ✨ | :peach: | 📗 |
+|문제 1 - 1012(DFS)| 🍀 | :snowflake: | ✔ |
+|문제 2 - 2583(DFS)| 🍀 | :snowflake: | ✔ |
+|문제 3 - 1012(BFS)| 🍀 | :snowflake: | ✔ |
+|문제 4 - 2583(BFS)| 🍀 | :snowflake: | ✔ |
+|CS Study 2 - 로그인| 💕 | :maple_leaf: | 💌 |
 
 
 ### Extra
