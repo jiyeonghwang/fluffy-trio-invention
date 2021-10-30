@@ -3,6 +3,7 @@ package JiYeong;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
+import java.util.Queue;
 
 public class Main10866JY {
     public static void main(String[] args) throws Exception {
@@ -15,7 +16,7 @@ public class Main10866JY {
         StringBuilder sb = new StringBuilder();
         sb.append("<");
 
-        Queue q = new LinkedList<Integer>();
+        Queue q = new LinkedList();
         for(int i=1; i<cnt+1; i++){
             q.add(i);
         }
