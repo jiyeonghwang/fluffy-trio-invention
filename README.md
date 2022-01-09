@@ -226,12 +226,8 @@
 |1. 씨름선수| ✨ | :peach: | 📘 |
 |2. 회의실 배정| ✨ | :peach: | 📔 |
 |문제 1 - 4779|  | :snowflake: | ✔ |
-|React - 자바스크립트 새로고침| 💖 | :snowflake: | 💌 |  
+|React - 자바스크립트 새로고침| 💖 | :snowflake: | 💌 | 
   
-  
-</div>
-</details>
-
 
 ### 17주차
 | To-Do | 지수 | 도형 | 지영 |
@@ -269,6 +265,24 @@
 |5. 동전교환|  |  |  |
 |6. 최대점수 구하기|  |  |  |
 |React - 478/471| 💖 |  |  |
+  
+  
+</div>
+</details>
+
+
+### 20주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|Week 1 - Problem 1|  |  |  |
+|Week 1 - Problem 2|  |  |  |
+|Week 1 - Problem 3|  |  |  |
+|Week 1 - Problem 4|  |  |  |
+|Week 1 - Problem 5|  |  |  |
+|Week 1 - Problem 6|  |  |  |
+|Week 1 - Problem 7|  |  |  |
+|Week 1 - Mock Test|  |  |  |
+|React - 485/478|  |  |  |
 
 
 ### Extra
