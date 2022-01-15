@@ -266,10 +266,6 @@
 |6. 최대점수 구하기|  | :peach: |  |
 |React - 478/471| 💖 | :snowflake: |  |
   
-  
-</div>
-</details>
-
 
 ### 20주차
 | To-Do | 지수 | 도형 | 지영 |
@@ -283,6 +279,25 @@
 |Week 1 - Problem 7|  | :peach: |  |
 |Week 1 - Mock Test|  | :snowflake: |  |
 |React - 485/478|  | :snowflake: |  |
+  
+  
+</div>
+</details>
+
+
+### 21주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|Week 2 - Problem 1|  |  |  |
+|Week 2 - Problem 2|  |  |  |
+|Week 2 - Problem 3|  |  |  |
+|Week 2 - Problem 4|  |  |  |
+|Week 2 - Problem 5|  |  |  |
+|Week 2 - Problem 6|  |  |  |
+|Week 2 - Problem 7|  |  |  |
+|Week 2 - Problem 8|  |  |  |
+|Week 2 - Mock Test|  |  |  |
+|React - 490/483|  |  |  |
 
 
 ### Extra
