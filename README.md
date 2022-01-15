@@ -274,11 +274,11 @@
 ### 20주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 1 - Problem 1|  | :peach: |  |
-|Week 1 - Problem 2|  | :peach: |  |
-|Week 1 - Problem 3|  | :peach: |  |
-|Week 1 - Problem 4|  | :peach: |  |
-|Week 1 - Problem 5|  | :peach: |  |
+|Week 1 - Problem 1| ✨ | :peach: |  |
+|Week 1 - Problem 2| ✨ | :peach: |  |
+|Week 1 - Problem 3| ✨ | :peach: |  |
+|Week 1 - Problem 4| ✨ | :peach: |  |
+|Week 1 - Problem 5| ✨ | :peach: |  |
 |Week 1 - Problem 6|  | :peach: |  |
 |Week 1 - Problem 7|  | :peach: |  |
 |Week 1 - Mock Test|  | :snowflake: |  |
