@@ -288,16 +288,16 @@
 ### 21주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 2 - Problem 1|  |  |  |
-|Week 2 - Problem 2|  |  |  |
-|Week 2 - Problem 3|  |  |  |
-|Week 2 - Problem 4|  |  |  |
-|Week 2 - Problem 5|  |  |  |
-|Week 2 - Problem 6|  |  |  |
-|Week 2 - Problem 7|  |  |  |
-|Week 2 - Problem 8|  |  |  |
-|Week 2 - Mock Test|  |  |  |
-|React - 490/483|  |  |  |
+|Week 2 - Problem 1|  | :hibiscus: |  |
+|Week 2 - Problem 2|  | :hibiscus: |  |
+|Week 2 - Problem 3|  | :hibiscus: |  |
+|Week 2 - Problem 4|  | :hibiscus: |  |
+|Week 2 - Problem 5|  | :hibiscus: |  |
+|Week 2 - Problem 6|  | :four_leaf_clover: |  |
+|Week 2 - Problem 7|  | :four_leaf_clover: |  |
+|Week 2 - Problem 8|  | :four_leaf_clover: |  |
+|Week 2 - Mock Test|  | :four_leaf_clover: |  |
+|React - 490/483|  | :four_leaf_clover: |  |
 
 
 ### Extra
