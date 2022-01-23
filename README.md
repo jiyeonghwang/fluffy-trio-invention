@@ -275,9 +275,9 @@
 |Week 1 - Problem 3| ✨ | :peach: | 🎶 |
 |Week 1 - Problem 4| ✨ | :peach: | 🎶 |
 |Week 1 - Problem 5| ✨ | :peach: | 🎶 |
-|Week 1 - Problem 6|  | :peach: |  |
-|Week 1 - Problem 7|  | :peach: |  |
-|Week 1 - Mock Test|  | :snowflake: |  |
+|Week 1 - Problem 6| ✨ | :peach: |  |
+|Week 1 - Problem 7| ✨ | :peach: |  |
+|Week 1 - Mock Test| 🍀 | :snowflake: |  |
 |React - 485/478|  | :snowflake: |  |
   
   
@@ -288,11 +288,11 @@
 ### 21주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 2 - Problem 1|  | :hibiscus: |  |
-|Week 2 - Problem 2|  | :hibiscus: |  |
-|Week 2 - Problem 3|  | :hibiscus: |  |
-|Week 2 - Problem 4|  | :hibiscus: |  |
-|Week 2 - Problem 5|  | :hibiscus: |  |
+|Week 2 - Problem 1| ✨ | :hibiscus: |  |
+|Week 2 - Problem 2| ✨ | :hibiscus: |  |
+|Week 2 - Problem 3| ✨ | :hibiscus: |  |
+|Week 2 - Problem 4| ✨ | :hibiscus: |  |
+|Week 2 - Problem 5| ✨ | :hibiscus: |  |
 |Week 2 - Problem 6|  | :four_leaf_clover: |  |
 |Week 2 - Problem 7|  | :four_leaf_clover: |  |
 |Week 2 - Problem 8|  | :four_leaf_clover: |  |
