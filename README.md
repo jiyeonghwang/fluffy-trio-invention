@@ -251,7 +251,7 @@
 |6. 친구인가(Union&Find)| ✨ | :peach: |  |
 |7. 원더랜드(크루스칼 : Union&Find)| ✨ | :peach: |  |
 |8. 원더랜드(프림 : PriorityQueue)| ✨ | :peach: |  |
-|문제 1 - 11399|  | :snowflake: |  |
+|문제 1 - 11399| 🍀 | :snowflake: |  |
 |React - 473/465| 💖 | :snowflake: |  |
 
 
@@ -261,9 +261,9 @@
 |1. 계단오르기| ✨ | :peach: |  |
 |2. 돌다리 건너기| ✨ | :peach: |  |
 |3. 최대부분증가수열| ✨ | :peach: |  |
-|4. 가장 높은 탑 쌓기|  | :peach: |  |
-|5. 동전교환|  | :peach: |  |
-|6. 최대점수 구하기|  | :peach: |  |
+|4. 가장 높은 탑 쌓기| ✨ | :peach: |  |
+|5. 동전교환| ✨ | :peach: |  |
+|6. 최대점수 구하기| ✨ | :peach: |  |
 |React - 478/471| 💖 | :snowflake: |  |
   
 
@@ -290,10 +290,10 @@
 |Week 2 - Problem 3| ✨ | :hibiscus: |  |
 |Week 2 - Problem 4| ✨ | :hibiscus: |  |
 |Week 2 - Problem 5| ✨ | :hibiscus: |  |
-|Week 2 - Problem 6|  | :four_leaf_clover: |  |
-|Week 2 - Problem 7|  | :four_leaf_clover: |  |
-|Week 2 - Problem 8|  | :four_leaf_clover: |  |
-|Week 2 - Mock Test|  | :four_leaf_clover: |  |
+|Week 2 - Problem 6| ✨ | :four_leaf_clover: |  |
+|Week 2 - Problem 7| ✨ | :four_leaf_clover: |  |
+|Week 2 - Problem 8| ✨ | :four_leaf_clover: |  |
+|Week 2 - Mock Test| 🍀 | :four_leaf_clover: |  |
 |React - 490/483|  | :four_leaf_clover: |  |
   
   
