@@ -35,7 +35,7 @@ public class Solution0205JS {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-//        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
 
@@ -45,7 +45,7 @@ public class Solution0205JS {
 
         List<Integer> result = countingSort(arr);
 
-     /*   bufferedWriter.write(
+        bufferedWriter.write(
                 result.stream()
                         .map(Object::toString)
                         .collect(joining(" "))
@@ -54,5 +54,5 @@ public class Solution0205JS {
 
         bufferedReader.close();
         bufferedWriter.close();
-*/    }
+    }
 }
