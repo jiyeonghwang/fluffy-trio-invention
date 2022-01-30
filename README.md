@@ -278,7 +278,7 @@
 |Week 1 - Problem 6| ✨ | :peach: |  |
 |Week 1 - Problem 7| ✨ | :peach: |  |
 |Week 1 - Mock Test| 🍀 | :snowflake: |  |
-|React - 485/478|  | :snowflake: |  |
+|React - 485/478| 💖 | :snowflake: |  |
   
 
 
@@ -304,15 +304,15 @@
 ### 22주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 3 - Problem 1|  |  |  |
-|Week 3 - Problem 2|  |  |  |
-|Week 3 - Problem 3|  |  |  |
-|Week 3 - Problem 4|  |  |  |
-|Week 3 - Problem 5|  |  |  |
-|Week 3 - Problem 6|  |  |  |
-|Week 3 - Problem 7|  |  |  |
-|Week 3 - Problem 8|  |  |  |
-|Week 3 - Mock Test|  |  |  |
+|Week 3 - Problem 1| ✨ |  |  |
+|Week 3 - Problem 2| ✨ |  |  |
+|Week 3 - Problem 3| ✨ |  |  |
+|Week 3 - Problem 4| ✨ |  |  |
+|Week 3 - Problem 5| ✨ |  |  |
+|Week 3 - Problem 6| ✨ |  |  |
+|Week 3 - Problem 7| ✨ |  |  |
+|Week 3 - Problem 8| ✨ |  |  |
+|Week 3 - Mock Test| 🍀 |  |  |
 |React - 리액트 기초 및 실습 컴포넌트|  |  |  |
 |React - 리액트 State 및 이벤트 다루기|  |  |  |
 |React - 렌더링 리스트 및 조건부 Content (70/66)|  |  |  |
