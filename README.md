@@ -304,16 +304,16 @@
 ### 22주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 3 - Problem 1| ✨ |  |  |
-|Week 3 - Problem 2| ✨ |  |  |
-|Week 3 - Problem 3| ✨ |  |  |
-|Week 3 - Problem 4| ✨ |  |  |
-|Week 3 - Problem 5| ✨ |  |  |
-|Week 3 - Problem 6| ✨ |  |  |
-|Week 3 - Problem 7| ✨ |  |  |
-|Week 3 - Problem 8| ✨ |  |  |
-|Week 3 - Mock Test| 🍀 |  |  |
-|React - 리액트 기초 및 실습 컴포넌트|  |  |  |
+|Week 3 - Problem 1| ✨ | :hibiscus: |  |
+|Week 3 - Problem 2| ✨ | :hibiscus: |  |
+|Week 3 - Problem 3| ✨ | :hibiscus: |  |
+|Week 3 - Problem 4| ✨ | :hibiscus: |  |
+|Week 3 - Problem 5| ✨ | :hibiscus: |  |
+|Week 3 - Problem 6| ✨ | :hibiscus: |  |
+|Week 3 - Problem 7| ✨ | :hibiscus: |  |
+|Week 3 - Problem 8| ✨ | :hibiscus: |  |
+|Week 3 - Mock Test| 🍀 | :four_leaf_clover: |  |
+|React - 리액트 기초 및 실습 컴포넌트|  | :four_leaf_clover: |  |
 |React - 리액트 State 및 이벤트 다루기|  |  |  |
 |React - 렌더링 리스트 및 조건부 Content (70/66)|  |  |  |
 
