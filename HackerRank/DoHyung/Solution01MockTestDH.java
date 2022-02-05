@@ -1,7 +1,7 @@
 import java.util.Collections;
 import java.util.List;
 
-public class SolutionMockTestDH {
+public class Solution01MockTestDH {
     class Result {
         /*
          * Complete the 'findMedian' function below.
