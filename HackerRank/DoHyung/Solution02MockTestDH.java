@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class SolutionMockTest02DH {
+public class Solution02MockTestDH {
     class Result {
         /*
          * Complete the 'flippingMatrix' function below.
