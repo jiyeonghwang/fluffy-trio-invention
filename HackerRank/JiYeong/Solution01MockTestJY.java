@@ -10,31 +10,21 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
+
+
 class Result {
 
     /*
-     * Complete the 'timeConversion' function below.
+     * Complete the 'findMedian' function below.
      *
-     * The function is expected to return a STRING.
-     * The function accepts STRING s as parameter.
+     * The function is expected to return an INTEGER.
+     * The function accepts INTEGER_ARRAY arr as parameter.
      */
 
-    public static String timeConversion(String s) {
+    public static int findMedian(List<Integer> arr) {
         // Write your code here
-        String plag = s.substring(8, 10);
-
-        int tempHour = Integer.parseInt(s.substring(0, 2));
-        String hour = "";
-
-        if ("PM".equals(plag)) {
-            if (tempHour !=12) tempHour += 12;
-            hour = String.valueOf(tempHour);
-        } else {
-            if (tempHour==12) hour="00";
-            else hour = String.valueOf("0" + tempHour);
-        }
-
-        return hour + s.substring(2, 8);
+        Collections.sort(arr);
+        return arr.get(arr.size()/2);
     }
 
 }
@@ -44,11 +34,15 @@ public class Solution {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
-        String s = bufferedReader.readLine();
+        int n = Integer.parseInt(bufferedReader.readLine().trim());
 
-        String result = Result.timeConversion(s);
+        List<Integer> arr = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
+                .map(Integer::parseInt)
+                .collect(toList());
 
-        bufferedWriter.write(result);
+        int result = Result.findMedian(arr);
+
+        bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
 
         bufferedReader.close();

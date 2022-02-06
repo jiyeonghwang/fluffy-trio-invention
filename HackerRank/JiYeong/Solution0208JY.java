@@ -13,28 +13,26 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /*
-     * Complete the 'timeConversion' function below.
+     * Complete the 'marsExploration' function below.
      *
-     * The function is expected to return a STRING.
+     * The function is expected to return an INTEGER.
      * The function accepts STRING s as parameter.
      */
 
-    public static String timeConversion(String s) {
+    public static int marsExploration(String s) {
         // Write your code here
-        String plag = s.substring(8, 10);
+        char[] success = {'S', 'O', 'S'};
+        int temp = 0;
+        int result = 0;
 
-        int tempHour = Integer.parseInt(s.substring(0, 2));
-        String hour = "";
+        for (char c : s.toCharArray()) {
+            if (c != success[temp]) result++;
 
-        if ("PM".equals(plag)) {
-            if (tempHour !=12) tempHour += 12;
-            hour = String.valueOf(tempHour);
-        } else {
-            if (tempHour==12) hour="00";
-            else hour = String.valueOf("0" + tempHour);
+            if (temp==2) temp = 0;
+            else temp++;
         }
 
-        return hour + s.substring(2, 8);
+        return result;
     }
 
 }
@@ -46,9 +44,9 @@ public class Solution {
 
         String s = bufferedReader.readLine();
 
-        String result = Result.timeConversion(s);
+        int result = Result.marsExploration(s);
 
-        bufferedWriter.write(result);
+        bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();
 
         bufferedReader.close();
