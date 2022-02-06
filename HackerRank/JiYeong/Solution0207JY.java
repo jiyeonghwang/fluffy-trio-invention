@@ -13,28 +13,25 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /*
-     * Complete the 'timeConversion' function below.
+     * Complete the 'pangrams' function below.
      *
      * The function is expected to return a STRING.
      * The function accepts STRING s as parameter.
      */
 
-    public static String timeConversion(String s) {
+    public static String pangrams(String s) {
         // Write your code here
-        String plag = s.substring(8, 10);
+        s = s.toLowerCase(Locale.ROOT);
+        char[] arr = s.toCharArray();
 
-        int tempHour = Integer.parseInt(s.substring(0, 2));
-        String hour = "";
-
-        if ("PM".equals(plag)) {
-            if (tempHour !=12) tempHour += 12;
-            hour = String.valueOf(tempHour);
-        } else {
-            if (tempHour==12) hour="00";
-            else hour = String.valueOf("0" + tempHour);
+        Map<String, Integer> map = new HashMap<>();
+        for (char c : arr) {
+            map.put(String.valueOf(c), 1);
         }
 
-        return hour + s.substring(2, 8);
+        List<String> keyList = new ArrayList<String>(map.keySet());
+        if (keyList.size() != 27) return "not pangram";
+        else return "pangram";
     }
 
 }
@@ -46,7 +43,7 @@ public class Solution {
 
         String s = bufferedReader.readLine();
 
-        String result = Result.timeConversion(s);
+        String result = Result.pangrams(s);
 
         bufferedWriter.write(result);
         bufferedWriter.newLine();
