@@ -279,7 +279,6 @@
 |Week 1 - Problem 7| ✨ | :peach: | 🎶  |
 |Week 1 - Mock Test| 🍀 | :snowflake: | 🎁  |
 |React - 485/478| 💖 | :snowflake: |     |
-  
 
 
 ### 21주차
@@ -295,12 +294,8 @@
 |Week 2 - Problem 8| ✨ | :four_leaf_clover: | 🎀 |
 |Week 2 - Mock Test| 🍀 | :four_leaf_clover: | 🎁 |
 |React - 490/483|  | :four_leaf_clover: |  |
-  
-  
-</div>
-</details>
 
-
+  
 ### 22주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -315,7 +310,28 @@
 |Week 3 - Mock Test| 🍀 | :four_leaf_clover: |  |
 |React - 리액트 기초 및 실습 컴포넌트|  | :four_leaf_clover: | 💌 |
 |React - 리액트 State 및 이벤트 다루기|  |  |  |
-|React - 렌더링 리스트 및 조건부 Content (70/66)|  |  |  |
+|React - 렌더링 리스트 및 조건부 Content (70/66)|  |  |  |  
+  
+  
+</div>
+</details>
+
+
+### 23주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|Week 4 - Problem 1|  |  |  |
+|Week 4 - Problem 2|  |  |  |
+|Week 4 - Problem 3|  |  |  |
+|Week 4 - Problem 4|  |  |  |
+|Week 4 - Problem 5|  |  |  |
+|Week 4 - Problem 6|  |  |  |
+|Week 4 - Problem 7|  |  |  |
+|Week 4 - Problem 8|  |  |  |
+|Week 4 - Mock Test|  |  |  |
+|React - 렌더링 리스트 및 조건부 Content|  |  |  |
+|React - 리액트 컴포넌트 스타일링|  |  |  |
+|React - 리액트 앱 디버깅하기|  |  |  |
 
 
 ### Extra
