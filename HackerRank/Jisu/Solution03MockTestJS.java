@@ -50,7 +50,7 @@ public class Solution03MockTestJS {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-//        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
         String[] firstMultipleInput = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
 
@@ -68,10 +68,10 @@ public class Solution03MockTestJS {
 
         int total = getTotalX(arr, brr);
 
-//        bufferedWriter.write(String.valueOf(total));
-//        bufferedWriter.newLine();
+        bufferedWriter.write(String.valueOf(total));
+        bufferedWriter.newLine();
 
         bufferedReader.close();
-//        bufferedWriter.close();
+        bufferedWriter.close();
     }
 }
