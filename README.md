@@ -320,15 +320,15 @@
 ### 23주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 4 - Problem 1|  |  |  |
-|Week 4 - Problem 2|  |  |  |
-|Week 4 - Problem 3|  |  |  |
-|Week 4 - Problem 4|  |  |  |
-|Week 4 - Problem 5|  |  |  |
-|Week 4 - Problem 6|  |  |  |
-|Week 4 - Problem 7|  |  |  |
-|Week 4 - Problem 8|  |  |  |
-|Week 4 - Mock Test|  |  |  |
+|Week 4 - Problem 1|  |  | 🎇 |
+|Week 4 - Problem 2|  |  | 🎇 |
+|Week 4 - Problem 3|  |  | 🎇 |
+|Week 4 - Problem 4|  |  | 🎇 |
+|Week 4 - Problem 5|  |  | 🎇 |
+|Week 4 - Problem 6|  |  | 🎇 |
+|Week 4 - Problem 7|  |  | 🎇 |
+|Week 4 - Problem 8|  |  | 🎇 |
+|Week 4 - Mock Test|  |  | 🎁 |
 |React - 렌더링 리스트 및 조건부 Content|  |  |  |
 |React - 리액트 컴포넌트 스타일링|  |  |  |
 |React - 리액트 앱 디버깅하기|  |  |  |
