@@ -334,8 +334,8 @@
 ### 24주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 5 - Problem 1|  | 🌼 |  |
-|Week 5 - Problem 2|  | 🌻 |  |
+|Week 5 - Problem 1|  | 🌼 | 🎶 |
+|Week 5 - Problem 2|  | 🌻 | 🎶 |
 |Week 5 - Problem 3|  | 🌼 |  |
 |Week 5 - Problem 4|  | 🌻 |  |
 |Week 5 - Problem 5|  | 🌼 |  |
