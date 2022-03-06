@@ -327,10 +327,6 @@
 |Week 4 - Mock Test| 🍀 | 🍁 | 🎁 |
 
   
-</div>
-</details>
-
-
 ### 24주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -346,6 +342,24 @@
 |React - 렌더링 리스트 및 조건부 Content|  | 🍁 |  |
 |React - 리액트 컴포넌트 스타일링|  | 🍁 |  |
 |React - 리액트 앱 디버깅하기|  | 🍁 |  |
+  
+  
+</div>
+</details>
+
+
+### 25주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|Week 6 - Problem 1|  |  |  |
+|Week 6 - Problem 2|  |  |  |
+|Week 6 - Problem 3|  |  |  |
+|Week 6 - Problem 4|  |  |  |
+|Week 6 - Problem 5|  |  |  |
+|Week 6 - Problem 6|  |  |  |
+|Week 6 - Problem 7|  |  |  |
+|Week 6 - Problem 8|  |  |  |
+|Week 6 - Mock Test|  |  |  |
 
 
 ### Extra
