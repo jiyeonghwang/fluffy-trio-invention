@@ -351,15 +351,15 @@
 ### 25주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 6 - Problem 1|  |  |  |
-|Week 6 - Problem 2|  |  |  |
-|Week 6 - Problem 3|  |  |  |
-|Week 6 - Problem 4|  |  |  |
-|Week 6 - Problem 5|  |  |  |
-|Week 6 - Problem 6|  |  |  |
-|Week 6 - Problem 7|  |  |  |
-|Week 6 - Problem 8|  |  |  |
-|Week 6 - Mock Test|  |  |  |
+|Week 6 - Problem 1|  | 🌼 |  |
+|Week 6 - Problem 2|  | 🌻 |  |
+|Week 6 - Problem 3|  | 🌼 |  |
+|Week 6 - Problem 4|  | 🌻 |  |
+|Week 6 - Problem 5|  | 🌼 |  |
+|Week 6 - Problem 6|  | 🌻 |  |
+|Week 6 - Problem 7|  | 🌼 |  |
+|Week 6 - Problem 8|  | 🌻 |  |
+|Week 6 - Mock Test|  | 🌼 |  |
 
 
 ### Extra
