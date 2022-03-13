@@ -335,9 +335,9 @@
 |Week 5 - Problem 3|  | 🌼 | 🎶 |
 |Week 5 - Problem 4| ✨ | 🌻 | 🎶 |
 |Week 5 - Problem 5| ✨ | 🌼 | 🎶 |
-|Week 5 - Problem 6| ✨ | 🌻 |  |
-|Week 5 - Problem 7|  | 🌼 |  |
-|Week 5 - Problem 8|  | 🌻 |  |
+|Week 5 - Problem 6| ✨ | 🌻 | 🤔 |
+|Week 5 - Problem 7|  | 🌼 | 🎶 |
+|Week 5 - Problem 8|  | 🌻 | 🤔 |
 |Week 5 - Mock Test|  | 🌼 |  |
 |React - 렌더링 리스트 및 조건부 Content|  | 🍁 |  |
 |React - 리액트 컴포넌트 스타일링|  | 🍁 |  |
