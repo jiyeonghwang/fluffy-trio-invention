@@ -349,13 +349,13 @@
 | ------- | ------- | ------ | ------ |
 |Week 6 - Problem 1| ✨ | 🌼 |  |
 |Week 6 - Problem 2| ✨ | 🌻 |  |
-|Week 6 - Problem 3|  | 🌼 |  |
-|Week 6 - Problem 4|  | 🌻 |  |
-|Week 6 - Problem 5|  | 🌼 |  |
+|Week 6 - Problem 3| ✨ | 🌼 |  |
+|Week 6 - Problem 4| ✨ | 🌻 |  |
+|Week 6 - Problem 5| ✨ | 🌼 |  |
 |Week 6 - Problem 6| ✨ | 🌻 |  |
-|Week 6 - Problem 7|  | 🌼 |  |
-|Week 6 - Problem 8|  | 🌻 |  |
-|Week 6 - Mock Test|  | 🌼 |  |
+|Week 6 - Problem 7| ✨ | 🌼 |  |
+|Week 6 - Problem 8| ✨ | 🌻 |  |
+|Week 6 - Mock Test| 🍀 | 🌼 |  |
   
   
 </div>
