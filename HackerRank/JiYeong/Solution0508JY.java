@@ -21,26 +21,34 @@ class Result {
 
     public static int sansaXor(List<Integer> arr) {
         // Write your code here
-        List<List<Integer>> temp = new ArrayList<>();
-        for (int i=1; i<=arr.size(); i++) {
-            int st=0;
-            for (int j=0; j+i<=arr.size(); j++) {
-                List<Integer> subList = arr.subList(st, i+j);
-                temp.add(subList);
-                st++;
-            }
-        }
+//        List<List<Integer>> temp = new ArrayList<>();
+//        for (int i=1; i<=arr.size(); i++) {
+//            int st=0;
+//            for (int j=0; j+i<=arr.size(); j++) {
+//                List<Integer> subList = arr.subList(st, i+j);
+//                temp.add(subList);
+//                st++;
+//            }
+//        }
+//
+//        int result = temp.get(0).get(0);
+//        temp.remove(0);
+//        for (List<Integer> list : temp) {
+//            int x = list.get(0);
+//            for (int i=1; i<list.size(); i++) {
+//                x ^= list.get(i);
+//            }
+//            result ^= x;
+//        }
+//        return result;
 
-        int result = temp.get(0).get(0);
-        temp.remove(0);
-        for (List<Integer> list : temp) {
-            int x = list.get(0);
-            for (int i=1; i<list.size(); i++) {
-                x ^= list.get(i);
-            }
-            result ^= x;
+        if (arr.size()%2 == 0) return 0;
+
+        int answer =0;
+        for(int i=0; i<arr.size(); i+=2){
+            answer = answer ^ arr.get(i);
         }
-        return result;
+        return answer;
     }
 
 }
