@@ -365,15 +365,11 @@
 ### 26주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|Week 7 - Problem 1|  |  | 🍭 |
-|Week 7 - Problem 2|  |  |  |
-|Week 7 - Problem 3|  |  |  |
-|Week 7 - Problem 4|  |  |  |
-|Week 7 - Problem 5|  |  |  |
-|Week 7 - Problem 6|  |  |  |
-|Week 7 - Problem 7|  |  |  |
-|Week 7 - Problem 8|  |  |  |
-|Week 7 - Mock Test|  |  |  |
+|문제 1 - 5622 |  |  |  |
+|문제 2 - 5347 |  |  |  |
+|문제 3 - 6502 |  |  |  |
+|섹션 1. 데이터과학 소개 및 환경 구축|  |  |  |
+|섹션 2. 엘라스틱서치 (ElasticSearch)|  |  |  |
 |React - 연습하기:연습 프로젝트 완료|  |  |  |
 
 
