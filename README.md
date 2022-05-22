@@ -406,10 +406,6 @@
 |문제 3 - 13410 | 🍀 | 🌻 | 🌠 |
 |섹션 3. 기본적인 도커 클라이언트 명령어 알아보기| ✨ | 🌼 |  |  
 
-  
-</div>
-</details>
-
 
 ### 31주차
 | To-Do | 지수 | 도형 | 지영 |
@@ -417,7 +413,20 @@
 |문제 1 - [1940](https://www.acmicpc.net/problem/1940) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [2535](https://www.acmicpc.net/problem/2535) | 🍀 | 🌻 | 🌠 |
 |문제 3 - [4673](https://www.acmicpc.net/problem/4673) | 🍀 | 🌻 |  |
-|섹션 4. 직접 도커 이미지를 만들어 보기| ✨ | 🌼 |  |
+|섹션 4. 직접 도커 이미지를 만들어 보기| ✨ | 🌼 |  |  
+
+  
+</div>
+</details>
+
+
+### 32주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ |----|
+|문제 1 - [11659](https://www.acmicpc.net/problem/11659) |  |  |  |
+|문제 2 - [11966](https://www.acmicpc.net/problem/11966) |  |  |  |
+|문제 3 - [12836](https://www.acmicpc.net/problem/12836) |  |  |  |
+|섹션 5. Package.json 파일이 없다고 나오는 이유|  |  |  |
 
 
 ### Extra
