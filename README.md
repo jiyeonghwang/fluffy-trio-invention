@@ -414,10 +414,10 @@
 ### 31주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ |----|
-|문제 1 - [1940](https://www.acmicpc.net/problem/1940) | 🍀 |  |  |
-|문제 2 - [2535](https://www.acmicpc.net/problem/2535) | 🍀 |  |  |
-|문제 3 - [4673](https://www.acmicpc.net/problem/4673) | 🍀 |  |  |
-|섹션 4. 직접 도커 이미지를 만들어 보기| ✨ |  |  |
+|문제 1 - [1940](https://www.acmicpc.net/problem/1940) | 🍀 | 🌻 |  |
+|문제 2 - [2535](https://www.acmicpc.net/problem/2535) | 🍀 | 🌻 |  |
+|문제 3 - [4673](https://www.acmicpc.net/problem/4673) | 🍀 | 🌻 |  |
+|섹션 4. 직접 도커 이미지를 만들어 보기| ✨ | 🌼 |  |
 
 
 ### Extra
