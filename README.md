@@ -423,10 +423,10 @@
 ### 32주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ |----|
-|문제 1 - [11659](https://www.acmicpc.net/problem/11659) |  |  |  |
-|문제 2 - [11966](https://www.acmicpc.net/problem/11966) |  |  |  |
-|문제 3 - [12836](https://www.acmicpc.net/problem/12836) |  |  |  |
-|섹션 5. Package.json 파일이 없다고 나오는 이유|  |  |  |
+|문제 1 - [11659](https://www.acmicpc.net/problem/11659) | 🍀 |  |  |
+|문제 2 - [11966](https://www.acmicpc.net/problem/11966) | 🍀 |  |  |
+|문제 3 - [12836](https://www.acmicpc.net/problem/12836) | 🍀 |  |  |
+|섹션 5. Package.json 파일이 없다고 나오는 이유| ✨ |  |  |
 
 
 ### Extra
