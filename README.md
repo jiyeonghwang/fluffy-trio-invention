@@ -3,7 +3,7 @@
 ## 공통
 [가이드](./GUIDE.md)
 
-## 알고리즘/자료구조
+## 주차별 진도
 
 
 <details>
@@ -415,10 +415,6 @@
 |문제 3 - [4673](https://www.acmicpc.net/problem/4673) | 🍀 | 🌻 |  |
 |섹션 4. 직접 도커 이미지를 만들어 보기| ✨ | 🌼 |  |  
 
-  
-</div>
-</details>
-
 
 ### 32주차
 | To-Do | 지수 | 도형 | 지영 |
@@ -427,6 +423,19 @@
 |문제 2 - [11966](https://www.acmicpc.net/problem/11966) | 🍀 | 🌻 |  |
 |문제 3 - [12836](https://www.acmicpc.net/problem/12836) | 🍀 | 🌻 |  |
 |섹션 5. Package.json 파일이 없다고 나오는 이유| ✨ |  |  |
+
+
+</div>
+</details>
+
+
+### 33주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ |----|
+|문제 1 - [1309](https://www.acmicpc.net/problem/1309) |  |  |  |
+|문제 2 - [1748](https://www.acmicpc.net/problem/1748) |  |  |  |
+|문제 3 - [1935](https://www.acmicpc.net/problem/1935) |  |  |  |
+|섹션 5. Docker Volume에 대하여|  |  |  |
 
 
 ### Extra
