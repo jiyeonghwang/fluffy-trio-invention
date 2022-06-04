@@ -432,10 +432,10 @@
 ### 33주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ |----|
-|문제 1 - [1309](https://www.acmicpc.net/problem/1309) |  |  |  |
-|문제 2 - [1748](https://www.acmicpc.net/problem/1748) |  |  |  |
-|문제 3 - [1935](https://www.acmicpc.net/problem/1935) |  |  |  |
-|섹션 5. Docker Volume에 대하여|  |  |  |
+|문제 1 - [1309](https://www.acmicpc.net/problem/1309) | 🍀 |  |  |
+|문제 2 - [1748](https://www.acmicpc.net/problem/1748) | 🍀 |  |  |
+|문제 3 - [1935](https://www.acmicpc.net/problem/1935) | 🍀 |  |  |
+|섹션 5. Docker Volume에 대하여| ✨ |  |  |
 
 
 ### Extra
