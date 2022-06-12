@@ -433,18 +433,27 @@
 |문제 3 - [1935](https://www.acmicpc.net/problem/1935) | 🍀 | 🌻 |  |
 |섹션 5. Docker Volume에 대하여| ✨ | 🌼 |  |
 
+ 
+### 34주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|문제 1 - [3986](https://www.acmicpc.net/problem/3986) | 🍀 | 🌻 | 🌠 |
+|문제 2 - [16237](https://www.acmicpc.net/problem/16237) |  | 🌻 |  |
+|문제 3 - [10974](https://www.acmicpc.net/problem/10974) | 🍀 | 🌻 | 🌠 |
+|섹션 6. Docker Compose| ✨ |  |  |
+  
   
 </div>
 </details>
 
 
-### 34주차
+### 35주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|문제 1 - [3986](https://www.acmicpc.net/problem/3986) | 🍀 | 🌻 | 🌠 |
-|문제 2 - [16237](https://www.acmicpc.net/problem/16237) |  | 🌻 | 🌠 |
-|문제 3 - [10974](https://www.acmicpc.net/problem/10974) | 🍀 | 🌻 |  |
-|섹션 6. Docker Compose| ✨ |  |  |
+|문제 1 - [2210](https://www.acmicpc.net/problem/2210) |  |  |  |
+|문제 2 - [2578](https://www.acmicpc.net/problem/2578) |  |  |  |
+|문제 3 - [9935](https://www.acmicpc.net/problem/9935) |  |  |  |
+|섹션 7. 도커 볼륨을 이용한 소스 코드 변경|  |  |  |
 
 
 ### Extra
