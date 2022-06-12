@@ -441,9 +441,9 @@
 ### 34주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|문제 1 - [3986](https://www.acmicpc.net/problem/3986) |  |  |  |
-|문제 2 - [16237](https://www.acmicpc.net/problem/16237) |  |  |  |
-|문제 3 - [10974](https://www.acmicpc.net/problem/10974) |  |  |  |
+|문제 1 - [3986](https://www.acmicpc.net/problem/3986) |  | 🌻 |  |
+|문제 2 - [16237](https://www.acmicpc.net/problem/16237) |  | 🌻 |  |
+|문제 3 - [10974](https://www.acmicpc.net/problem/10974) |  | 🌻 |  |
 |섹션 6. Docker Compose|  |  |  |
 
 
