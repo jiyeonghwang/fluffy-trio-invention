@@ -441,10 +441,6 @@
 |문제 2 - [16237](https://www.acmicpc.net/problem/16237) |  | 🌻 |  |
 |문제 3 - [10974](https://www.acmicpc.net/problem/10974) | 🍀 | 🌻 | 🌠 |
 |섹션 6. Docker Compose| ✨ |  |  |
-  
-  
-</div>
-</details>
 
 
 ### 35주차
@@ -454,6 +450,19 @@
 |문제 2 - [2578](https://www.acmicpc.net/problem/2578) | 🍀 | 🌻 | 🌠 |
 |문제 3 - [9935](https://www.acmicpc.net/problem/9935) | 🍀 | 🌻 | 🌠 |
 |섹션 7. 도커 볼륨을 이용한 소스 코드 변경| ✨ |  |  |
+  
+  
+</div>
+</details>
+
+
+### 36주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|문제 1 - [1138](https://www.acmicpc.net/problem/1138) |  |  |  |
+|문제 2 - [1182](https://www.acmicpc.net/problem/1182) |  |  |  |
+|문제 3 - [1254](https://www.acmicpc.net/problem/1254) |  |  |  |
+|섹션 7. 운영환경 도커 이미지를 위한 Dockerfile 작성하기|  |  |  |
 
 
 ### Extra
