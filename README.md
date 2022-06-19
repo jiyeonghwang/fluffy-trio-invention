@@ -450,9 +450,9 @@
 ### 35주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|문제 1 - [2210](https://www.acmicpc.net/problem/2210) | 🍀 | 🌻 |  |
-|문제 2 - [2578](https://www.acmicpc.net/problem/2578) | 🍀 | 🌻 |  |
-|문제 3 - [9935](https://www.acmicpc.net/problem/9935) | 🍀 | 🌻 |  |
+|문제 1 - [2210](https://www.acmicpc.net/problem/2210) | 🍀 | 🌻 | 🌠 |
+|문제 2 - [2578](https://www.acmicpc.net/problem/2578) | 🍀 | 🌻 | 🌠 |
+|문제 3 - [9935](https://www.acmicpc.net/problem/9935) | 🍀 | 🌻 | 🌠 |
 |섹션 7. 도커 볼륨을 이용한 소스 코드 변경| ✨ |  |  |
 
 
