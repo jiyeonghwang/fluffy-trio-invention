@@ -459,10 +459,10 @@
 ### 36주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|문제 1 - [1138](https://www.acmicpc.net/problem/1138) |  |  |  |
-|문제 2 - [1182](https://www.acmicpc.net/problem/1182) |  |  |  |
-|문제 3 - [1254](https://www.acmicpc.net/problem/1254) |  |  |  |
-|섹션 7. 운영환경 도커 이미지를 위한 Dockerfile 작성하기|  |  |  |
+|문제 1 - [1138](https://www.acmicpc.net/problem/1138) | 🍀 |  |  |
+|문제 2 - [1182](https://www.acmicpc.net/problem/1182) | 🍀 |  |  |
+|문제 3 - [1254](https://www.acmicpc.net/problem/1254) | 🍀 |  |  |
+|섹션 7. 운영환경 도커 이미지를 위한 Dockerfile 작성하기| ✨ |  |  |
 
 
 ### Extra
