@@ -440,7 +440,7 @@
 |문제 1 - [3986](https://www.acmicpc.net/problem/3986) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [16237](https://www.acmicpc.net/problem/16237) |  | 🌻 |  |
 |문제 3 - [10974](https://www.acmicpc.net/problem/10974) | 🍀 | 🌻 | 🌠 |
-|섹션 6. Docker Compose| ✨ |  |  |
+|섹션 6. Docker Compose| ✨ | 🌼 |  |
 
 
 ### 35주차
@@ -449,7 +449,7 @@
 |문제 1 - [2210](https://www.acmicpc.net/problem/2210) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [2578](https://www.acmicpc.net/problem/2578) | 🍀 | 🌻 | 🌠 |
 |문제 3 - [9935](https://www.acmicpc.net/problem/9935) | 🍀 | 🌻 | 🌠 |
-|섹션 7. 도커 볼륨을 이용한 소스 코드 변경| ✨ |  |  |
+|섹션 7. 도커 볼륨을 이용한 소스 코드 변경| ✨ | 🌼 |  |
   
   
 ### 36주차
@@ -458,7 +458,7 @@
 |문제 1 - [1138](https://www.acmicpc.net/problem/1138) | 🍀 | 🌻 |  |
 |문제 2 - [1182](https://www.acmicpc.net/problem/1182) | 🍀 | 🌻 |  |
 |문제 3 - [1254](https://www.acmicpc.net/problem/1254) | 🍀 | 🌻 |  |
-|섹션 7. 운영환경 도커 이미지를 위한 Dockerfile 작성하기| ✨ |  |  |
+|섹션 7. 운영환경 도커 이미지를 위한 Dockerfile 작성하기| ✨ | 🌼 |  |
   
   
 ### Extra
@@ -478,4 +478,4 @@
 | ------- | ------- | ------ | ------ |
 |문제 1 - [1439](https://www.acmicpc.net/problem/1439) |  |  |  |
 |문제 2 - [6603](https://www.acmicpc.net/problem/6603) |  |  |  |
-|섹션 8. .travis.yml 파일 작성하기 (테스트까지)| ✨ |  |  |
+|섹션 8. .travis.yml 파일 작성하기 (테스트까지)| ✨ | 🌼 |  |
