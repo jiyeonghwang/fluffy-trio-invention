@@ -478,4 +478,4 @@
 | ------- | ------- | ------ | ------ |
 |문제 1 - [1439](https://www.acmicpc.net/problem/1439) |  |  |  |
 |문제 2 - [6603](https://www.acmicpc.net/problem/6603) |  |  |  |
-|섹션 8. .travis.yml 파일 작성하기 (테스트까지)|  |  |  |
+|섹션 8. .travis.yml 파일 작성하기 (테스트까지)| ✨ |  |  |
