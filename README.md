@@ -483,6 +483,6 @@
 ### 38주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
-|문제 1 - [1439](https://www.acmicpc.net/problem/1439) |  |  |  |
-|문제 2 - [6603](https://www.acmicpc.net/problem/6603) |  |  |  |
+|문제 1 - [1439](https://www.acmicpc.net/problem/1439) | 🍀 |  |  |
+|문제 2 - [6603](https://www.acmicpc.net/problem/6603) | 🍀 |  |  |
 |섹션 8. Travis CI의 AWS접근을 위한 API 생성|  |  |  |
