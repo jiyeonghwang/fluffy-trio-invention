@@ -474,20 +474,8 @@
 |문제 1 - [1439](https://www.acmicpc.net/problem/1439) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [6603](https://www.acmicpc.net/problem/6603) | 🍀 | 🌻 | 🌠 |
   
-  
-### Extra
-| To-Do | 지수 | 도형 | 지영 |
-| ------- | ------- | ------ | ------ |
-|1859.백만 장자 프로젝트|  | :paw_prints: |  |
-|1204.최빈수 구하기|  | :paw_prints: |  |
-|1954.달팽이 숫자|  | :paw_prints: |  |
-  
-  
-</div>
-</details>
 
-
-### 39주차
+ ### 39주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
 |문제 1 - [4900](https://www.acmicpc.net/problem/4900) | 🍀 | 🌻 | 🌠 |
@@ -495,3 +483,24 @@
 |문제 3 - [13022](https://www.acmicpc.net/problem/13022) |  | 🌻 |  |
 |문제 4 - [14569](https://www.acmicpc.net/problem/14569) | 🍀 | 🌻 |  |
 |섹션 8. Travis CI의 AWS접근을 위한 API 생성|  |  |  |
+
+
+### Extra
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|1859.백만 장자 프로젝트|  | :paw_prints: |  |
+|1204.최빈수 구하기|  | :paw_prints: |  |
+|1954.달팽이 숫자|  | :paw_prints: |  |
+
+
+</div>
+</details>
+
+
+### 40주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|문제 1 - [9375](https://www.acmicpc.net/problem/9375) |  |  |  |
+|문제 2 - [20291](https://www.acmicpc.net/problem/20291) |  |  |  |
+|문제 3 - [21921](https://www.acmicpc.net/problem/21921) |  |  |  |
+|섹션 9. Node JS 구성하기|  |  |  |
