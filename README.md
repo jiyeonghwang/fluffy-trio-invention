@@ -479,9 +479,9 @@
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
 |문제 1 - [4900](https://www.acmicpc.net/problem/4900) | 🍀 | 🌻 | 🌠 |
-|문제 2 - [5212](https://www.acmicpc.net/problem/5212) | 🍀 | 🌻 |  |
-|문제 3 - [13022](https://www.acmicpc.net/problem/13022) | 🍀 | 🌻 |  |
-|문제 4 - [14569](https://www.acmicpc.net/problem/14569) | 🍀 | 🌻 |  |
+|문제 2 - [5212](https://www.acmicpc.net/problem/5212) | 🍀 | 🌻 | 🌠 |
+|문제 3 - [13022](https://www.acmicpc.net/problem/13022) | 🍀 | 🌻 | 🌠 |
+|문제 4 - [14569](https://www.acmicpc.net/problem/14569) | 🍀 | 🌻 | 🌠 |
 |섹션 8. Travis CI의 AWS접근을 위한 API 생성|  |  |  |
 
 
