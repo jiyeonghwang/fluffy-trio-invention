@@ -503,4 +503,5 @@
 |문제 1 - [9375](https://www.acmicpc.net/problem/9375) |  | 🌻 |  |
 |문제 2 - [20291](https://www.acmicpc.net/problem/20291) |  | 🌻 |  |
 |문제 3 - [21921](https://www.acmicpc.net/problem/21921) |  | 🌻 |  |
+|문제 4 - [1740](https://www.acmicpc.net/problem/1740) |  |  |  |
 |섹션 9. Node JS 구성하기|  |  |  |
