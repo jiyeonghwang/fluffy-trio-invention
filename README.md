@@ -504,4 +504,12 @@
 |문제 2 - [20291](https://www.acmicpc.net/problem/20291) |  | 🌻 |  |
 |문제 3 - [21921](https://www.acmicpc.net/problem/21921) |  | 🌻 |  |
 |문제 4 - [1740](https://www.acmicpc.net/problem/1740) |  |  |  |
+
+
+### 41주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|문제 1 - [13414](https://www.acmicpc.net/problem/13414) |  |  |  |
+|문제 2 - [16114](https://www.acmicpc.net/problem/16114) |  |  |  |
+|문제 3 - [17479](https://www.acmicpc.net/problem/17479) |  |  |  |
 |섹션 9. Node JS 구성하기|  |  |  |
