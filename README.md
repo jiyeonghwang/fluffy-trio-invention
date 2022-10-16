@@ -485,6 +485,15 @@
 |섹션 8. Travis CI의 AWS접근을 위한 API 생성|  |  |  |
 
 
+### 40주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|문제 1 - [9375](https://www.acmicpc.net/problem/9375) | 🍀 | 🌻 | 🌠 |
+|문제 2 - [20291](https://www.acmicpc.net/problem/20291) | 🍀 | 🌻 | 🌠 |
+|문제 3 - [21921](https://www.acmicpc.net/problem/21921) | 🍀 | 🌻 | 🌠 |
+|문제 4 - [1740](https://www.acmicpc.net/problem/1740) |  |  | 🌠 |
+
+
 ### Extra
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
@@ -497,19 +506,18 @@
 </details>
 
 
-### 40주차
-| To-Do | 지수 | 도형 | 지영 |
-| ------- | ------- | ------ | ------ |
-|문제 1 - [9375](https://www.acmicpc.net/problem/9375) | 🍀 | 🌻 | 🌠 |
-|문제 2 - [20291](https://www.acmicpc.net/problem/20291) | 🍀 | 🌻 | 🌠 |
-|문제 3 - [21921](https://www.acmicpc.net/problem/21921) | 🍀 | 🌻 | 🌠 |
-|문제 4 - [1740](https://www.acmicpc.net/problem/1740) |  |  | 🌠 |
-
-
 ### 41주차
 | To-Do | 지수 | 도형 | 지영 |
 | ------- | ------- | ------ | ------ |
 |문제 1 - [13414](https://www.acmicpc.net/problem/13414) | 🍀 | 🌻 | 🌠 |
 |문제 2 - [16114](https://www.acmicpc.net/problem/16114) |  |  |  |
 |문제 3 - [17479](https://www.acmicpc.net/problem/17479) | 🍀 |  |  |
+
+
+### 42주차
+| To-Do | 지수 | 도형 | 지영 |
+| ------- | ------- | ------ | ------ |
+|문제 1 - [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  |  |  |
+|문제 2 - [17680](https://school.programmers.co.kr/learn/courses/30/lessons/17680) |  |  |  |
+|문제 3 - [42842](https://school.programmers.co.kr/learn/courses/30/lessons/42842) |  |  |  |
 |섹션 9. Node JS 구성하기|  |  |  |
